@@ -68,6 +68,8 @@ How to deploy a Node.js program to Bluemix
 
 ###Congratulations! You have successful deploy a node.js program to bluemix!
 
+Thank you!
+
  
 
 
